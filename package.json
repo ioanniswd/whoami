@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ioanniswd/whoami/issues"
   },
-  "homepage": "https://github.com/ioanniswd/whoami#readme"
+  "homepage": "https://github.com/ioanniswd/whoami#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
